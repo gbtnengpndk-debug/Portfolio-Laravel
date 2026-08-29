@@ -4,6 +4,7 @@
 
 @section('content')
 
+
 <div class="admin-container">
 
     <div class="admin-page-header">
@@ -42,7 +43,7 @@
                         <div class="admin-project-image">
 
                             <img
-                                src="{{ asset($project->image) }}"
+                                src="{{ $project->image_url }}"
                                 alt="{{ $project->title }}"
                             >
 

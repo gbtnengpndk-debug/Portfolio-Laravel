@@ -3,7 +3,7 @@
     <div class="container navbar__container">
 
         <a href="#home" class="navbar__logo">
-            Andhika<span>.</span>
+            Andhika<span>.</span>Dev
         </a>
 
         <div class="navbar__links">

@@ -4,6 +4,7 @@
 
 @section('content')
 
+
 <div class="admin-container">
 
     <div class="admin-page-header">
@@ -116,7 +117,7 @@
     @if ($project->image)
         <div style="margin-bottom: 12px;">
             <img
-                src="{{ asset($project->image) }}"
+                src="{{ $project->image_url }}"
                 alt="{{ $project->title }}"
                 style="max-width: 300px; border-radius: 10px;"
             >

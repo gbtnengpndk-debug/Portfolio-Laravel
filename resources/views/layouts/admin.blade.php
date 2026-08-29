@@ -23,7 +23,7 @@
         <div class="admin-header-inner">
 
             <h1 class="admin-logo">
-                Admin<span>.</span>
+                Admin<span>.</span>Dev
             </h1>
 
 <nav class="admin-nav">

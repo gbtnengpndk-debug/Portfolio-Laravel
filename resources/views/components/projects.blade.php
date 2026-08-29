@@ -1,3 +1,4 @@
+
 <section id="projects" class="section projects">
     <div class="container">
 
@@ -18,7 +19,7 @@
                     @if ($project->image)
                         <div class="project-image">
                             <img
-                                src="{{ $project->image }}"
+                                src="{{ $project->image_url }}"
                                 alt="{{ $project->title }}"
                             >
                         </div>

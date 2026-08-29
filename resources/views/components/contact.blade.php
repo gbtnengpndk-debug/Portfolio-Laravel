@@ -64,14 +64,14 @@
             </div>
 
             <div class="form-group">
-                <label for="subject">Subject</label>
+                <label for="subject">Telepon</label>
 
                 <input
                     type="text"
                     id="subject"
                     name="subject"
                     value="{{ old('subject') }}"
-                    placeholder="Subjek pesan"
+                    placeholder="Nomor Telepon"
                     maxlength="255"
                 >
             </div>

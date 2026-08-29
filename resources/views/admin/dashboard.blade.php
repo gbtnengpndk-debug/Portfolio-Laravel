@@ -13,7 +13,7 @@
 
             <h1>Dashboard</h1>
 
-            <p>Kelola portfolio kamu dari sini.</p>
+            <p>Kelola portfolio dari sini.</p>
         </div>
 
         <a href="{{ url('/') }}" class="admin-back">
